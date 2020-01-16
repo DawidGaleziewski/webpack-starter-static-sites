@@ -1,19 +1,19 @@
 // - base/
-@import './sass/base/normalize';
+@import "./sass/base/normalize";
 
 // - vendors/
-@import './sass/vendors/bootstrap';
+@import "./sass/vendors/bootstrap";
 
 // - utils/
-@import './sass/utils/variables';
-@import './sass/utils/helpers';
+@import "./sass/utils/variables";
+@import "./sass/utils/helpers";
 
 // - components/
-@import './sass/components/buttons';
+@import "./sass/components/buttons";
 
 // - layouts/
-@import './sass/layout/navigation';
+@import "./sass/layout/navigation";
 
 .main-navbar {
-  background: red;
+  background: green;
 }
